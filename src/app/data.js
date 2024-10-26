@@ -19,105 +19,55 @@ Websites:
 export const projectsData = [
   {
     id: 1,
-    name: "EcoTracker",
-    description: "Track your carbon footprint",
-    date: "2022-08-15",
-    demoLink: "https://ecotracker.example.com",
+    name: 'Tumutuku',
+    description: 'Membantu berbagai tugas',
+    date: '2024-01-10',
+    demoLink: 'https://start-up-nine.vercel.app/'
   },
   {
     id: 2,
-    name: "ArtGallery Online",
-    description: "Digital art showcase platform",
-    date: "2022-06-20",
-    demoLink: "https://artgalleryonline.example.com",
+    name: 'Service API Chat',
+    description: 'Service kebutuhan api Chat',
+    date: '2022-06-20',
+    demoLink: 'https://github.com/sabda1110/ServiceAPIChat'
   },
   {
     id: 3,
-    name: "BudgetPlanner",
-    description: "Plan and track expenses",
-    date: "2022-09-10",
-    demoLink: "https://budgetplanner.example.com",
-  },
-  {
-    id: 4,
-    name: "HealthBeat",
-    description: "Monitor heart rate zones",
-    date: "2022-05-30",
-    demoLink: "https://healthbeat.example.com",
-  },
-  {
-    id: 5,
-    name: "RecipeFinder",
-    description: "Discover new recipes",
-    date: "2022-07-12",
-    demoLink: "https://recipefinder.example.com",
-  },
-  {
-    id: 6,
-    name: "JourneyLogger",
-    description: "Log your travels",
-    date: "2022-10-01",
-    demoLink: "https://journeylogger.example.com",
-  },
-  {
-    id: 7,
-    name: "StudyBuddy",
-    description: "Collaborative learning platform",
-    date: "2022-04-18",
-    demoLink: "https://studybuddy.example.com",
-  },
-  {
-    id: 8,
-    name: "TechTalk",
-    description: "Tech news aggregator",
-    date: "2022-11-05",
-    demoLink: "https://techtalk.example.com",
-  },
-  {
-    id: 9,
-    name: "FitTrack",
-    description: "Fitness and workout tracker",
-    date: "2022-03-22",
-    demoLink: "https://fittrack.example.com",
-  },
-  {
-    id: 10,
-    name: "MindfulMoments",
-    description: "Meditation and mindfulness app",
-    date: "2022-02-14",
-    demoLink: "https://mindfulmoments.example.com",
-  },
+    name: 'Portofolio V1 ',
+    description: 'Plan and track expenses',
+    date: '2022-12-10',
+    demoLink:
+      'https://sabda1110.github.io/?fbclid=PAZXh0bgNhZW0CMTEAAaZCgnbgdkzBrUBa2O0PIUZ9alUf0Sl_M6dKwgbJVVk7Yt2wrwjT14XcwNY_aem_Vw974Q7pDQzezGB93toX9Q'
+  }
 ];
 
 export const BtnList = [
-  { label: "Home", link: "/", icon: "home", newTab: false },
-  { label: "About", link: "/about", icon: "about", newTab: false },
-  { label: "Projects", link: "/projects", icon: "projects", newTab: false },
-  { label: "Contact", link: "/contact", icon: "contact", newTab: false },
+  { label: 'Home', link: '/', icon: 'home', newTab: false },
+  { label: 'About', link: '/aboutMe', icon: 'about', newTab: false },
+  { label: 'Projects', link: '/project', icon: 'projects', newTab: false },
+  { label: 'Contact', link: '/contact', icon: 'contact', newTab: false },
   {
-    label: "Github",
-    link: "https://www.github.com/codebucks27",
-    icon: "github",
-    newTab: true,
+    label: 'Github',
+    link: 'https://www.github.com/sabda1110',
+    icon: 'github',
+    newTab: true
   },
   {
-    label: "LinkedIn",
-    link: "https://www.linkedin.com/in/codebucks",
-    icon: "linkedin",
-    newTab: true,
+    label: 'LinkedIn',
+    link: 'https://www.linkedin.com/in/sabda-setiawan-6a8185162',
+    icon: 'linkedin',
+    newTab: true
   },
   {
-    label: "X",
-    link: "https://www.x.com/code_bucks",
-    icon: "twitter",
-    newTab: true,
+    label: 'X',
+    link: 'https://www.x.com/code_bucks',
+    icon: 'twitter',
+    newTab: true
   },
   {
-    label: "Resume",
-    link: "/resume.pdf",
-    icon: "resume",
-    newTab: true,
-  },
+    label: 'Resume',
+    link: '/resume.pdf',
+    icon: 'resume',
+    newTab: true
+  }
 ];
-
-
