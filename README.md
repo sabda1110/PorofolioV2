@@ -22,26 +22,26 @@ Final Code👇: <br />
 
 #### Home
 
-![Nextjs Creative Portfolio Website](https://ibb.co.com/7bk3kSb)
+![Nextjs Creative Portfolio Website](https://i.ibb.co.com/PtD2Drt/screencapture-localhost-3000-2024-10-27-10-04-22.png)
 
 #### About
 
-![Nextjs Creative Portfolio Website About Page](https://ibb.co.com/tpSZVxn)
+![Nextjs Creative Portfolio Website About Page](https://i.ibb.co.com/DfNG08m/screencapture-localhost-3000-about-Me-2024-10-27-10-04-54.png)
 
 #### Projects
 
-![Next.js Creative Portfolio Website Projects Page](https://ibb.co.com/8Y1b33G)
+![Next.js Creative Portfolio Website Projects Page](https://i.ibb.co.com/wc57HH8/screencapture-localhost-3000-project-2024-10-27-10-05-19.png)
 
 #### Contact
 
-![Next.js Creative Portfolio Website Contact Page](https://ibb.co.com/zGXcNQ8)
+![Next.js Creative Portfolio Website Contact Page](https://i.ibb.co.com/hDB5CLX/screencapture-localhost-3000-contact-2024-10-27-10-05-41.png)
 
 #### Mobile Version
 
-![Next.js Creative Portfolio Website Contact Page](https://ibb.co.com/qCDMrb0)
-![Next.js Creative Portfolio Website Contact Page](https://ibb.co.com/ftqnxNV)
-![Next.js Creative Portfolio Website Contact Page](https://ibb.co.com/4JgDQjQ)
-![Next.js Creative Portfolio Website Contact Page](https://ibb.co.com/Rz69Mgp)
+![Next.js Creative Portfolio Website Contact Page](https://i.ibb.co.com/1M0fmHs/screencapture-localhost-3000-2024-10-27-10-06-20.png)
+![Next.js Creative Portfolio Website Contact Page](https://i.ibb.co.com/zbQ742W/screencapture-localhost-3000-project-2024-10-27-10-07-05.png)
+![Next.js Creative Portfolio Website Contact Page](https://i.ibb.co.com/t3PNdbd/screencapture-localhost-3000-contact-2024-10-27-10-07-18.png)
+![Next.js Creative Portfolio Website Contact Page](https://i.ibb.co.com/Ypd3KN7/image.png)
 
 ## Resources Used in This Project
 
