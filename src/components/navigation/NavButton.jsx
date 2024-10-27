@@ -7,7 +7,8 @@ import {
   Palette,
   Phone,
   Twitter,
-  User
+  User,
+  Theater
 } from 'lucide-react';
 import Link from 'next/link';
 import ResponsivComponent from '../ResponsivComponent';
@@ -31,8 +32,8 @@ const getIcon = (icon) => {
     case 'linkedin':
       return <Linkedin className="w-full h-auto" strokeWidth={1.5} />;
       break;
-    case 'twitter':
-      return <Twitter className="w-full h-auto" strokeWidth={1.5} />;
+    case 'instagram':
+      return <Theater className="w-full h-auto" strokeWidth={1.5} />;
       break;
     case 'resume':
       return <NotebookTextIcon className="w-full h-auto" strokeWidth={1.5} />;
