@@ -5,10 +5,10 @@
 This repository contains **starter code** for Next.js Creative Portfolio website built using Next.js and Three.js. <br />
 
 For Demo checkout following link👇: <br />
-[Nextjs Creative Portfolio Website Demo](https://next-js-creative-portfolio-website.vercel.app/) <br />
+[Nextjs Creative Portfolio Website Demo](https://porofolio-v2.vercel.app/) <br />
 
 Final Code👇: <br />
-➡ Link 💚: [Nextjs Creative Portfolio Website Final Code](https://github.com/codebucks27/Next.js-Creative-Portfolio-Website) <br />
+➡ Link 💚: [Nextjs Creative Portfolio Website Final Code](https://github.com/sabda1110/PorofolioV2?tab=readme-ov-file) <br />
 
 <!--- ➡ Link 2💚(If you want to support): [Nextjs Creative Portfolio Website Final Code](https://codebucks.gumroad.com/l/ypzlu) <br /> --->
 

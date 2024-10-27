@@ -8,7 +8,11 @@ const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 
 export const metadata = {
   title: 'Whatsab',
-  description: 'Portofolio in Sabda Setiawan'
+  description: 'Portofolio in Sabda Setiawan',
+  icons: {
+    icon: '/logo.png', // Untuk favicon default
+    apple: '/apple-touch-icon.png' // Untuk Apple devices
+  }
 };
 
 export default function RootLayout({ children }) {
