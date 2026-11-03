@@ -18,6 +18,13 @@ Websites:
 
 export const projectsData = [
   {
+    id: 9,
+    name: 'Tapqr.id',
+    description: 'Google Review Aggregator',
+    date: '2025-01-15',
+    demoLink: 'https://tapqr.id/'
+  },
+  {
     id: 1,
     name: 'SaveMe',
     description: 'AI Personal Finance & Smart Receipt Scanner Tracker',
